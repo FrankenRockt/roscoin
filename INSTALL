@@ -1,0 +1,9 @@
+Building roscoin
+
+See doc/readme-qt.rst for instructions on building roscoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of roscoin.
+
+See doc/build-*.txt for instructions on building roscoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of roscoin.
